@@ -22,15 +22,11 @@
 // @include       http://usqstudydesk.usq.edu.au/m2/*
 // ==/UserScript==
 
-
 // @include       http://localhost/fred/*
 
 //don't run on frames or iframes
 if (window.top != window.self)  
 	exit ;
-
-
-
 
 //Add activityViewer javascript to page and let it do its thing
 /**
