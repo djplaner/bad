@@ -57,13 +57,13 @@ function calcOverride( result ) {
 
     if ( result < 50 && result >= 49.5 ) {
     //if ( result < 30 && result >= 29 ) {
-        return "F"; // this should be nothing given problems with which F grade
+        return "C"; // this should be nothing given problems with which F grade
     } else if ( result < 65 && result >= 64.5 ) {
     //} else if ( result < 45 && result >= 44 ) {
-        return "C";
+        return "B";
     } else if ( result < 75 && result >= 74.5 ) {
     //} else if ( result < 53 && result >= 52 ) {
-        return "B";
+        return "A";
     } else if ( result < 85 && result >= 84.5 ) {
     //} else if ( result < 54 && result >= 53 ) {
         return "HD";
