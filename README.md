@@ -5,7 +5,7 @@ Collection of scripts and kludges I've created to live with institutional e-lear
 
 Inspried by the MAV project (https://github.com/damoclark/mav) and the ideas expressed in this paper (http://davidtjones.wordpress.com/2014/09/21/breaking-bad-to-bridge-the-realityrhetoric-chasm/) this project is an ad hoc collection of scripts (perhaps mostly Greasemonkey) scripts that I have developed to make my life teaching at Universities a little easier.
 
-The value of these scripts beyond my practice are questionable.
+The value of these scripts beyond my practice is questionable.
 
 gradebookFix.user.js
 ====================
